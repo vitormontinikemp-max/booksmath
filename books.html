@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mathematical Books Library</title>
+    <link rel="stylesheet" href="books.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-book"></i> Mathematical Books Library</h1>
+            <p class="subtitle">Complete collection of mathematics books in Portuguese and English</p>
+            
+            <div class="controls">
+                <div class="search-container">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Search books by title, author, subject...">
+                    <button id="clearSearch"><i class="fas fa-times"></i></button>
+                </div>
+                
+                <div class="filters">
+                    <select id="languageFilter">
+                        <option value="all">All Languages</option>
+                        <option value="pt">Portuguese</option>
+                        <option value="en">English</option>
+                    </select>
+                    
+                    <select id="categoryFilter">
+                        <option value="all">All Categories</option>
+                        <option value="foundations">Foundations & Logic</option>
+                        <option value="algebra">Algebra</option>
+                        <option value="geometry">Geometry</option>
+                        <option value="calculus">Calculus & Analysis</option>
+                        <option value="combinatorics">Combinatorics & Discrete Math</option>
+                        <option value="number-theory">Number Theory</option>
+                        <option value="probability">Probability & Statistics</option>
+                        <option value="advanced">Advanced Topics</option>
+                        <option value="computational">Computational Mathematics</option>
+                        <option value="olympiads">Olympiads & Problems</option>
+                    </select>
+                    
+                    <select id="ratingFilter">
+                        <option value="all">All Ratings</option>
+                        <option value="5">5 stars</option>
+                        <option value="4">4+ stars</option>
+                        <option value="3">3+ stars</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="stats">
+                <span id="totalBooks">0 books</span>
+                <span id="filteredBooks">0 displayed</span>
+                <button id="copyAllBtn" class="copy-btn">
+                    <i class="fas fa-copy"></i> Copy All Book Titles
+                </button>
+            </div>
+        </header>
+        
+        <main>
+            <div class="books-container" id="booksContainer">
+                <!-- Books will be loaded here by JavaScript -->
+            </div>
+            
+            <div class="no-results" id="noResults">
+                <i class="fas fa-book-open"></i>
+                <h3>No books found</h3>
+                <p>Try adjusting your search or filters</p>
+            </div>
+        </main>
+        
+        <div class="notification" id="copyNotification">
+            <i class="fas fa-check-circle"></i>
+            <span>Book title copied to clipboard!</span>
+        </div>
+        
+        <footer>
+            <p>MKVI Mathematical Books Library &copy;  | Data collected from various academic sources</p>
+            <p class="disclaimer">Ratings are based on academic reviews, popularity among students, and pedagogical value.</p>
+        </footer>
+    </div>
+    
+    <script src="books.js"></script>
+</body>
+</html>
