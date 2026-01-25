@@ -338,7 +338,7 @@ h1 i {
 
 .rating i.fa-star,
 .rating i.fa-star-half-alt {
-    color: #777;
+    color: #fbff00;
 }
 
 .rating-value {
@@ -523,4 +523,5 @@ input:focus {
 
 ::-webkit-scrollbar-thumb:hover {
     background: #999;
+
 }
