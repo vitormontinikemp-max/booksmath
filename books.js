@@ -4007,6 +4007,388 @@ year: 2019
     pages: 1800,
     year: 2013
 }
+
+
+{id: 361, title: "Lógica Matemática para Ciência da Computação", author: "M. Ben-Ari", language: "pt", category: "foundations", description: "Introdução à lógica matemática com aplicações em ciência da computação, incluindo verificação formal e semântica.", rating: 4.5, pages: 320, year: 2011},
+{id: 362, title: "Teoria dos Conjuntos com Aplicações", author: "Carlos A. S. L. de Almeida", language: "pt", category: "foundations", description: "Teoria dos conjuntos com ênfase em aplicações em matemática e ciência da computação.", rating: 4.4, pages: 280, year: 2016},
+{id: 363, title: "Fundamentos de Matemática para Ciências", author: "João Bosco P. de Medeiros", language: "pt", category: "foundations", description: "Base matemática para estudantes de ciências exatas e engenharias.", rating: 4.3, pages: 350, year: 2018},
+{id: 364, title: "Introdução aos Sistemas Formais", author: "Luiz Carlos Guimarães", language: "pt", category: "foundations", description: "Sistemas formais e sua relação com a computabilidade.", rating: 4.2, pages: 240, year: 2014},
+{id: 365, title: "Teoria da Demonstração", author: "S. C. Coutinho", language: "pt", category: "foundations", description: "Fundamentos da teoria da demonstração matemática.", rating: 4.4, pages: 260, year: 2009},
+{id: 366, title: "Conjuntos e Números", author: "Edgard de Alencar Filho", language: "pt", category: "foundations", description: "Introdução à teoria dos conjuntos e construção dos sistemas numéricos.", rating: 4.5, pages: 300, year: 2005},
+{id: 367, title: "Lógica e Teoria dos Conjuntos para Concursos", author: "Sergio e Tambasco", language: "pt", category: "foundations", description: "Preparação para concursos públicos com foco em lógica e conjuntos.", rating: 4.6, pages: 280, year: 2019},
+{id: 368, title: "Fundamentos da Matemática Superior", author: "Paulo Boulos", language: "pt", category: "foundations", description: "Base teórica para disciplinas de matemática superior.", rating: 4.4, pages: 320, year: 2008},
+{id: 369, title: "Introdução à Matemática Discreta", author: "Kenneth H. Rosen", language: "pt", category: "foundations", description: "Tradução do clássico de matemática discreta.", rating: 4.7, pages: 1024, year: 2009},
+{id: 370, title: "Teoria dos Conjuntos Axiomática", author: "Paulo A. F. Silva", language: "pt", category: "foundations", description: "Abordagem axiomática da teoria dos conjuntos ZFC.", rating: 4.3, pages: 340, year: 2012},
+{id: 371, title: "Fundamentos de Análise Matemática", author: "Luis A. C. P. da Silva", language: "pt", category: "foundations", description: "Fundamentos para cursos de análise real.", rating: 4.5, pages: 310, year: 2017},
+{id: 372, title: "Lógica para Ciências Exatas", author: "Carlos A. S. L. de Almeida", language: "pt", category: "foundations", description: "Lógica aplicada a problemas de ciências exatas.", rating: 4.4, pages: 270, year: 2015},
+{id: 373, title: "Conjuntos, Relações e Funções", author: "H. P. Bueno", language: "pt", category: "foundations", description: "Tratamento rigoroso de conceitos fundamentais.", rating: 4.5, pages: 290, year: 2014},
+{id: 374, title: "Fundamentos da Matemática Elementar - Volume 0", author: "Gelson Iezzi", language: "pt", category: "foundations", description: "Conceitos preliminares para a coleção Fundamentos.", rating: 4.6, pages: 240, year: 2010},
+{id: 375, title: "Introdução à Lógica Formal", author: "Edgar Almeida Rodrigues", language: "pt", category: "foundations", description: "Primeiro curso em lógica formal.", rating: 4.3, pages: 260, year: 2006},
+{id: 376, title: "Teoria dos Conjuntos Intuitiva", author: "Fernando Q. Gouvêa", language: "pt", category: "foundations", description: "Abordagem intuitiva da teoria dos conjuntos.", rating: 4.4, pages: 220, year: 1998},
+{id: 377, title: "Fundamentos de Matemática para Economia", author: "Luiz Paulo Fávero", language: "pt", category: "foundations", description: "Base matemática para cursos de economia.", rating: 4.5, pages: 380, year: 2016},
+{id: 378, title: "Lógica Matemática Aplicada", author: "Manoel P. R. de Oliveira", language: "pt", category: "foundations", description: "Aplicações da lógica matemática em diversas áreas.", rating: 4.4, pages: 310, year: 2013},
+{id: 379, title: "Conjuntos e Lógica: Exercícios Resolvidos", author: "Augusto C. Morgado", language: "pt", category: "foundations", description: "Coleção de exercícios resolvidos sobre conjuntos e lógica.", rating: 4.6, pages: 280, year: 1996},
+{id: 380, title: "Fundamentos para Cálculo", author: "Luiz Roberto Dante", language: "pt", category: "foundations", description: "Preparação para cursos de cálculo.", rating: 4.5, pages: 350, year: 2012}
+
+
+
+{id: 381, title: "Álgebra Linear com Python", author: "J. D. Vieira Sobrinho", language: "pt", category: "algebra", description: "Implementações de conceitos de álgebra linear em Python.", rating: 4.7, pages: 340, year: 2021},
+{id: 382, title: "Teoria de Galois", author: "Eduardo Tengan", language: "pt", category: "algebra", description: "Introdução à teoria de Galois e suas aplicações.", rating: 4.6, pages: 320, year: 2018},
+{id: 383, title: "Grupos e Simetrias", author: "Arnaldo Garcia", language: "pt", category: "algebra", description: "Teoria de grupos com ênfase em simetrias e aplicações.", rating: 4.5, pages: 280, year: 2015},
+{id: 384, title: "Anéis Comutativos", author: "Aron Simis", language: "pt", category: "algebra", description: "Introdução à teoria de anéis comutativos.", rating: 4.4, pages: 310, year: 2010},
+{id: 385, title: "Álgebra Multilinear", author: "M. P. do Carmo", language: "pt", category: "algebra", description: "Álgebra multilinear e suas aplicações em geometria.", rating: 4.6, pages: 260, year: 2008},
+{id: 386, title: "Teoria de Representações de Grupos Finitos", author: "A. Z. L. Figueiredo", language: "pt", category: "algebra", description: "Representações de grupos finitos e caracteres.", rating: 4.5, pages: 330, year: 2007},
+{id: 387, title: "Álgebra para Criptografia", author: "S. C. Coutinho", language: "pt", category: "algebra", description: "Conceitos algébricos aplicados à criptografia.", rating: 4.7, pages: 290, year: 2016},
+{id: 388, title: "Corpos e Teoria de Galois", author: "Abramo Hefez", language: "pt", category: "algebra", description: "Teoria de corpos e extensões de Galois.", rating: 4.6, pages: 350, year: 2009},
+{id: 389, title: "Módulos e Álgebra Homológica", author: "Y. E. P. de A. Costa", language: "pt", category: "algebra", description: "Introdução à teoria de módulos e álgebra homológica.", rating: 4.4, pages: 380, year: 2013},
+{id: 390, title: "Álgebra Não-Comutativa", author: "Carlos A. S. L. de Almeida", language: "pt", category: "algebra", description: "Introdução à álgebra não-comutativa.", rating: 4.3, pages: 310, year: 2011},
+{id: 391, title: "Teoria de Anéis Não-Comutativos", author: "Luiz Francisco da S. Ramos", language: "pt", category: "algebra", description: "Anéis não-comutativos e suas aplicações.", rating: 4.4, pages: 300, year: 2014},
+{id: 392, title: "Álgebra Comutativa Computacional", author: "Aron Simis", language: "pt", category: "algebra", description: "Métodos computacionais em álgebra comutativa.", rating: 4.5, pages: 320, year: 2019},
+{id: 393, title: "Teoria de Grupos Topológicos", author: "Elon Lages Lima", language: "pt", category: "algebra", description: "Grupos topológicos e suas propriedades.", rating: 4.6, pages: 280, year: 2003},
+{id: 394, title: "Álgebra Linear Numérica", author: "F. F. Campos", language: "pt", category: "algebra", description: "Métodos numéricos em álgebra linear.", rating: 4.5, pages: 340, year: 2017},
+{id: 395, title: "Representações de Álgebras de Lie", author: "L. A. B. San Martin", language: "pt", category: "algebra", description: "Introdução às álgebras de Lie e suas representações.", rating: 4.4, pages: 310, year: 2005},
+{id: 396, title: "Álgebra Abstrata: Exercícios Resolvidos", author: "Manoel P. R. de Oliveira", language: "pt", category: "algebra", description: "Coleção de exercícios resolvidos de álgebra abstrata.", rating: 4.6, pages: 360, year: 2016},
+{id: 397, title: "Teoria de Corpos Finitos", author: "S. C. Coutinho", language: "pt", category: "algebra", description: "Corpos finitos e suas aplicações em teoria de códigos.", rating: 4.7, pages: 270, year: 2014},
+{id: 398, title: "Álgebra Homológica Aplicada", author: "Y. E. P. de A. Costa", language: "pt", category: "algebra", description: "Aplicações da álgebra homológica em topologia e geometria.", rating: 4.5, pages: 330, year: 2012},
+{id: 399, title: "Grupos de Lie", author: "L. A. B. San Martin", language: "pt", category: "algebra", description: "Introdução aos grupos de Lie e suas álgebras.", rating: 4.6, pages: 350, year: 2006},
+{id: 400, title: "Álgebra para Físicos", author: "José Maria F. Bassalo", language: "pt", category: "algebra", description: "Conceitos algébricos com aplicações em física.", rating: 4.5, pages: 320, year: 2004},
+{id: 401, title: "Teoria de Categorias", author: "Carlos A. S. L. de Almeida", language: "pt", category: "algebra", description: "Introdução à teoria de categorias.", rating: 4.4, pages: 290, year: 2018},
+{id: 402, title: "Álgebra Linear com Aplicações em Machine Learning", author: "J. D. Vieira Sobrinho", language: "pt", category: "algebra", description: "Álgebra linear aplicada ao aprendizado de máquina.", rating: 4.7, pages: 380, year: 2020},
+{id: 403, title: "Anéis de Polinômios", author: "Abramo Hefez", language: "pt", category: "algebra", description: "Teoria de anéis de polinômios e suas aplicações.", rating: 4.5, pages: 310, year: 2011},
+{id: 404, title: "Teoria de Grupos para Física", author: "José Maria F. Bassalo", language: "pt", category: "algebra", description: "Grupos e simetrias em física teórica.", rating: 4.6, pages: 340, year: 2008},
+{id: 405, title: "Álgebra Comutativa e Geometria Algébrica", author: "Aron Simis", language: "pt", category: "algebra", description: "Conexões entre álgebra comutativa e geometria algébrica.", rating: 4.5, pages: 360, year: 2015},
+{id: 406, title: "Módulos Livres e Projetivos", author: "Y. E. P. de A. Costa", language: "pt", category: "algebra", description: "Teoria de módulos livres e projetivos.", rating: 4.4, pages: 280, year: 2010},
+{id: 407, title: "Álgebra Linear com Aplicações em Gráficos", author: "Cláudia L. de Oliveira", language: "pt", category: "algebra", description: "Aplicações de álgebra linear em teoria dos grafos.", rating: 4.6, pages: 320, year: 2019},
+{id: 408, title: "Teoria de Representações de Álgebras", author: "A. Z. L. Figueiredo", language: "pt", category: "algebra", description: "Representações de álgebras associativas.", rating: 4.5, pages: 340, year: 2009},
+{id: 409, title: "Álgebra para Ciência da Computação", author: "Judith L. Gersting", language: "pt", category: "algebra", description: "Conceitos algébricos para ciência da computação.", rating: 4.7, pages: 410, year: 2012},
+{id: 410, title: "Teoria de Grupos Infinitos", author: "Carlos A. S. L. de Almeida", language: "pt", category: "algebra", description: "Propriedades de grupos infinitos.", rating: 4.4, pages: 290, year: 2017}
+
+
+
+{id: 411, title: "Cálculo de Funções de Várias Variáveis", author: "Hamilton L. Guidorizzi", language: "pt", category: "calculus", description: "Tratamento completo de cálculo multivariável.", rating: 4.8, pages: 520, year: 2003},
+{id: 412, title: "Análise Complexa com Aplicações", author: "Djairo G. de Figueiredo", language: "pt", category: "calculus", description: "Aplicações da análise complexa em problemas reais.", rating: 4.7, pages: 380, year: 2009},
+{id: 413, title: "Equações Diferenciais Parciais: Métodos de Separação", author: "Djairo G. de Figueiredo", language: "pt", category: "calculus", description: "Métodos de separação de variáveis para EDPs.", rating: 4.6, pages: 340, year: 2007},
+{id: 414, title: "Análise de Fourier e Wavelets", author: "Paulo Justiniano Ribeiro Jr.", language: "pt", category: "calculus", description: "Análise de Fourier e teoria de wavelets.", rating: 4.7, pages: 420, year: 2018},
+{id: 415, title: "Cálculo Vetorial e Geometria Diferencial", author: "M. P. do Carmo", language: "pt", category: "calculus", description: "Cálculo vetorial aplicado à geometria diferencial.", rating: 4.8, pages: 360, year: 2005},
+{id: 416, title: "Análise Real Avançada", author: "Elon Lages Lima", language: "pt", category: "calculus", description: "Tópicos avançados de análise real.", rating: 4.7, pages: 400, year: 2004},
+{id: 417, title: "Equações Diferenciais Ordinárias Não-Lineares", author: "Jacob Palis", language: "pt", category: "calculus", description: "Teoria qualitativa de EDOs não-lineares.", rating: 4.6, pages: 380, year: 1985},
+{id: 418, title: "Análise Funcional em Espaços de Dimensão Finita", author: "Elon Lages Lima", language: "pt", category: "calculus", description: "Análise funcional em contextos de dimensão finita.", rating: 4.5, pages: 320, year: 2001},
+{id: 419, title: "Cálculo com Aplicações à Economia", author: "Luiz Paulo Fávero", language: "pt", category: "calculus", description: "Cálculo aplicado a problemas econômicos.", rating: 4.6, pages: 450, year: 2017},
+{id: 420, title: "Análise Harmônica", author: "Djairo G. de Figueiredo", language: "pt", category: "calculus", description: "Introdução à análise harmônica.", rating: 4.7, pages: 360, year: 1999},
+{id: 421, title: "Equações Diferenciais com Atraso", author: "Luis A. C. P. da Silva", language: "pt", category: "calculus", description: "Teoria de equações diferenciais com retardo.", rating: 4.5, pages: 310, year: 2016},
+{id: 422, title: "Cálculo Fracionário", author: "J. D. Vieira Sobrinho", language: "pt", category: "calculus", description: "Introdução ao cálculo fracionário.", rating: 4.4, pages: 280, year: 2019},
+{id: 423, title: "Análise no R^n", author: "Elon Lages Lima", language: "pt", category: "calculus", description: "Análise multivariada no espaço euclidiano.", rating: 4.8, pages: 380, year: 2002},
+{id: 424, title: "Equações Diferenciais Estocásticas", author: "Paulo R. C. Ruffino", language: "pt", category: "calculus", description: "Introdução às equações diferenciais estocásticas.", rating: 4.6, pages: 330, year: 2011},
+{id: 425, title: "Análise Convexa", author: "H. P. Bueno", language: "pt", category: "calculus", description: "Análise de funções convexas e conjuntos convexos.", rating: 4.5, pages: 300, year: 2014},
+{id: 426, title: "Cálculo das Variações", author: "M. P. do Carmo", language: "pt", category: "calculus", description: "Introdução ao cálculo das variações.", rating: 4.6, pages: 290, year: 2007},
+{id: 427, title: "Análise Não-Standard", author: "Carlos A. S. L. de Almeida", language: "pt", category: "calculus", description: "Introdução à análise não-standard.", rating: 4.3, pages: 270, year: 2015},
+{id: 428, title: "Equações Integrais", author: "Djairo G. de Figueiredo", language: "pt", category: "calculus", description: "Teoria de equações integrais.", rating: 4.6, pages: 320, year: 1998},
+{id: 429, title: "Análise Assintótica", author: "H. P. Bueno", language: "pt", category: "calculus", description: "Métodos assintóticos em análise.", rating: 4.5, pages: 310, year: 2013},
+{id: 430, title: "Cálculo com Aplicações à Biologia", author: "Luis A. C. P. da Silva", language: "pt", category: "calculus", description: "Cálculo aplicado a modelos biológicos.", rating: 4.6, pages: 340, year: 2018},
+{id: 431, title: "Análise de Sinais e Sistemas", author: "Paulo Justiniano Ribeiro Jr.", language: "pt", category: "calculus", description: "Análise matemática de sinais e sistemas.", rating: 4.7, pages: 380, year: 2015},
+{id: 432, title: "Equações Diferenciais Parciais Não-Lineares", author: "Djairo G. de Figueiredo", language: "pt", category: "calculus", description: "Teoria básica de EDPs não-lineares.", rating: 4.6, pages: 360, year: 2006},
+{id: 433, title: "Análise de Estabilidade", author: "Jacob Palis", language: "pt", category: "calculus", description: "Análise de estabilidade de sistemas dinâmicos.", rating: 4.7, pages: 350, year: 1992},
+{id: 434, title: "Cálculo Tensorial", author: "M. P. do Carmo", language: "pt", category: "calculus", description: "Introdução ao cálculo tensorial.", rating: 4.6, pages: 280, year: 2004},
+{id: 435, title: "Análise Funcional Não-Linear", author: "Djairo G. de Figueiredo", language: "pt", category: "calculus", description: "Introdução à análise funcional não-linear.", rating: 4.7, pages: 400, year: 2003},
+{id: 436, title: "Equações Diferenciais com Aplicações à Física", author: "José Maria F. Bassalo", language: "pt", category: "calculus", description: "EDOs aplicadas a problemas físicos.", rating: 4.6, pages: 370, year: 2009},
+{id: 437, title: "Análise P-adica", author: "Abramo Hefez", language: "pt", category: "calculus", description: "Introdução à análise p-ádica.", rating: 4.5, pages: 290, year: 2012},
+{id: 438, title: "Cálculo de Variações e Controle Ótimo", author: "H. P. Bueno", language: "pt", category: "calculus", description: "Cálculo das variações e teoria de controle.", rating: 4.6, pages: 330, year: 2017},
+{id: 439, title: "Análise Complexa Geométrica", author: "M. P. do Carmo", language: "pt", category: "calculus", description: "Abordagem geométrica da análise complexa.", rating: 4.7, pages: 310, year: 2008},
+{id: 440, title: "Equações Diferenciais Parciais Hiperbólicas", author: "Djairo G. de Figueiredo", language: "pt", category: "calculus", description: "Teoria de EDPs hiperbólicas.", rating: 4.6, pages: 350, year: 2005}
+
+
+
+{id: 441, title: "Geometria Diferencial de Superfícies Mínimas", author: "M. P. do Carmo", language: "pt", category: "geometry", description: "Teoria de superfícies mínimas e suas propriedades.", rating: 4.7, pages: 320, year: 2010},
+{id: 442, title: "Geometria Projetiva Computacional", author: "Jonas Gomes", language: "pt", category: "geometry", description: "Geometria projetiva aplicada à computação gráfica.", rating: 4.6, pages: 340, year: 2011},
+{id: 443, title: "Geometria Algébrica Computacional", author: "Aron Simis", language: "pt", category: "geometry", description: "Métodos computacionais em geometria algébrica.", rating: 4.5, pages: 360, year: 2014},
+{id: 444, title: "Geometria Não-Euclidiana Aplicada", author: "João Lucas M. Barbosa", language: "pt", category: "geometry", description: "Aplicações das geometrias não-euclidianas.", rating: 4.6, pages: 280, year: 2001},
+{id: 445, title: "Geometria Riemanniana para Físicos", author: "José Maria F. Bassalo", language: "pt", category: "geometry", description: "Geometria Riemanniana aplicada à física teórica.", rating: 4.7, pages: 350, year: 2007},
+{id: 446, title: "Geometria Algébrica sobre Corpos Finitos", author: "Aron Simis", language: "pt", category: "geometry", description: "Geometria algébrica sobre corpos finitos.", rating: 4.5, pages: 310, year: 2012},
+{id: 447, title: "Geometria Diferencial Global", author: "M. P. do Carmo", language: "pt", category: "geometry", description: "Geometria diferencial em variedades.", rating: 4.8, pages: 380, year: 2009},
+{id: 448, title: "Geometria de Incidência", author: "Eduardo Wagner", language: "pt", category: "geometry", description: "Geometria baseada em relações de incidência.", rating: 4.6, pages: 260, year: 2016},
+{id: 449, title: "Geometria Simplética", author: "L. A. B. San Martin", language: "pt", category: "geometry", description: "Introdução à geometria simplética.", rating: 4.5, pages: 300, year: 2005},
+{id: 450, title: "Geometria Algébrica Complexa", author: "Aron Simis", language: "pt", category: "geometry", description: "Variedades algébricas complexas.", rating: 4.6, pages: 340, year: 2013},
+{id: 451, title: "Geometria Fracionária", author: "J. D. Vieira Sobrinho", language: "pt", category: "geometry", description: "Geometria com dimensões fracionárias.", rating: 4.4, pages: 270, year: 2020},
+{id: 452, title: "Geometria Computacional", author: "Jonas Gomes", language: "pt", category: "geometry", description: "Algoritmos de geometria computacional.", rating: 4.7, pages: 420, year: 2009},
+{id: 453, title: "Geometria de Grupos de Lie", author: "L. A. B. San Martin", language: "pt", category: "geometry", description: "Geometria associada a grupos de Lie.", rating: 4.6, pages: 330, year: 2008},
+{id: 454, title: "Geometria Algébrica Real", author: "Aron Simis", language: "pt", category: "geometry", description: "Variedades algébricas reais.", rating: 4.5, pages: 290, year: 2011},
+{id: 455, title: "Geometria Diferencial de Variedades Complexas", author: "M. P. do Carmo", language: "pt", category: "geometry", description: "Variedades complexas e suas propriedades.", rating: 4.7, pages: 310, year: 2006},
+{id: 456, title: "Geometria de Controle", author: "H. P. Bueno", language: "pt", category: "geometry", description: "Geometria aplicada à teoria de controle.", rating: 4.6, pages: 280, year: 2015},
+{id: 457, title: "Geometria Algébrica Aritmética", author: "Abramo Hefez", language: "pt", category: "geometry", description: "Conexões entre geometria algébrica e teoria dos números.", rating: 4.5, pages: 320, year: 2010},
+{id: 458, title: "Geometria Informacional", author: "Paulo Justiniano Ribeiro Jr.", language: "pt", category: "geometry", description: "Geometria aplicada à teoria da informação.", rating: 4.6, pages: 300, year: 2019},
+{id: 459, title: "Geometria de Subvariedades", author: "M. P. do Carmo", language: "pt", category: "geometry", description: "Teoria de subvariedades em espaços Riemannianos.", rating: 4.7, pages: 340, year: 2004},
+{id: 460, title: "Geometria Algébrica para Criptografia", author: "Aron Simis", language: "pt", category: "geometry", description: "Aplicações da geometria algébrica em criptografia.", rating: 4.5, pages: 310, year: 2018}
+
+
+
+{id: 461, title: "Teoria dos Grafos Extremais", author: "Cláudia L. de Oliveira", language: "pt", category: "combinatorics", description: "Teoria extremal de grafos e teoremas de Turán.", rating: 4.6, pages: 320, year: 2014},
+{id: 462, title: "Combinatória Aditiva", author: "H. P. Bueno", language: "pt", category: "combinatorics", description: "Combinatória aditiva e teoria de Ramsey.", rating: 4.5, pages: 290, year: 2016},
+{id: 463, title: "Teoria dos Matróides", author: "Carlos A. S. L. de Almeida", language: "pt", category: "combinatorics", description: "Introdução à teoria dos matróides.", rating: 4.4, pages: 310, year: 2012},
+{id: 464, title: "Combinatória Probabilística", author: "Augusto C. Morgado", language: "pt", category: "combinatorics", description: "Métodos probabilísticos em combinatória.", rating: 4.7, pages: 340, year: 1998},
+{id: 465, title: "Teoria dos Códigos Corretores", author: "S. C. Coutinho", language: "pt", category: "combinatorics", description: "Códigos corretores de erros e suas propriedades.", rating: 4.6, pages: 280, year: 2015},
+{id: 466, title: "Combinatória Algébrica", author: "Aron Simis", language: "pt", category: "combinatorics", description: "Métodos algébricos em combinatória.", rating: 4.5, pages: 330, year: 2013},
+{id: 467, title: "Teoria dos Designs Combinatórios", author: "Cláudia L. de Oliveira", language: "pt", category: "combinatorics", description: "Designs combinatórios e suas aplicações.", rating: 4.6, pages: 300, year: 2017},
+{id: 468, title: "Combinatória Enumerativa com Funções Geradoras", author: "H. P. Bueno", language: "pt", category: "combinatorics", description: "Uso de funções geradoras em combinatória enumerativa.", rating: 4.7, pages: 320, year: 2019},
+{id: 469, title: "Teoria dos Hipergrafos", author: "Carlos A. S. L. de Almeida", language: "pt", category: "combinatorics", description: "Hipergrafos e suas propriedades.", rating: 4.4, pages: 290, year: 2011},
+{id: 470, title: "Combinatória para Ciência da Computação", author: "Judith L. Gersting", language: "pt", category: "combinatorics", description: "Conceitos combinatórios para computação.", rating: 4.7, pages: 410, year: 2014},
+{id: 471, title: "Teoria dos Jogos Combinatórios", author: "Carlos A. S. L. de Almeida", language: "pt", category: "combinatorics", description: "Jogos combinatórios e teoria de Sprague-Grundy.", rating: 4.5, pages: 280, year: 2018},
+{id: 472, title: "Combinatória Extrema", author: "H. P. Bueno", language: "pt", category: "combinatorics", description: "Problemas extremos em combinatória.", rating: 4.6, pages: 310, year: 2015}
+
+{id: 473, title: "Teoria dos Grafos Aleatórios", author: "Paulo R. C. Ruffino", language: "pt", category: "combinatorics", description: "Grafos aleatórios e suas propriedades.", rating: 4.5, pages: 270, year: 2012},
+{id: 474, title: "Combinatória Aritmética", author: "Abramo Hefez", language: "pt", category: "combinatorics", description: "Conexões entre combinatória e teoria dos números.", rating: 4.6, pages: 300, year: 2010},
+{id: 475, title: "Teoria dos Poliedros Combinatórios", author: "Aron Simis", language: "pt", category: "combinatorics", description: "Poliedros e combinatória poliedral.", rating: 4.5, pages: 330, year: 2016},
+{id: 476, title: "Combinatória Topológica", author: "M. P. do Carmo", language: "pt", category: "combinatorics", description: "Métodos topológicos em combinatória.", rating: 4.6, pages: 290, year: 2009},
+{id: 477, title: "Teoria dos Códigos Lineares", author: "S. C. Coutinho", language: "pt", category: "combinatorics", description: "Códigos lineares e suas propriedades algébricas.", rating: 4.7, pages: 310, year: 2017},
+{id: 478, title: "Combinatória de Partições", author: "H. P. Bueno", language: "pt", category: "combinatorics", description: "Teoria das partições de inteiros.", rating: 4.6, pages: 280, year: 2014},
+{id: 479, title: "Teoria dos Grafos Perfeitos", author: "Cláudia L. de Oliveira", language: "pt", category: "combinatorics", description: "Grafos perfeitos e teoria dos grafos de Berge.", rating: 4.5, pages: 320, year: 2013},
+{id: 480, title: "Combinatória com Python", author: "J. D. Vieira Sobrinho", language: "pt", category: "combinatorics", description: "Implementações de algoritmos combinatórios em Python.", rating: 4.7, pages: 340, year: 2020}
+
+
+
+{id: 481, title: "Teoria Analítica dos Números Avançada", author: "S. C. Coutinho", language: "pt", category: "number-theory", description: "Tópicos avançados em teoria analítica dos números.", rating: 4.7, pages: 350, year: 2016},
+{id: 482, title: "Números Transcendentes", author: "Abramo Hefez", language: "pt", category: "number-theory", description: "Teoria dos números transcendentes.", rating: 4.6, pages: 290, year: 2011},
+{id: 483, title: "Teoria dos Números p-ádicos", author: "Abramo Hefez", language: "pt", category: "number-theory", description: "Números p-ádicos e suas propriedades.", rating: 4.5, pages: 310, year: 2013},
+{id: 484, title: "Curvas Elípticas e Aplicações", author: "S. C. Coutinho", language: "pt", category: "number-theory", description: "Curvas elípticas e suas aplicações em teoria dos números.", rating: 4.7, pages: 330, year: 2018},
+{id: 485, title: "Teoria dos Números Algébricos Computacional", author: "J. D. Vieira Sobrinho", language: "pt", category: "number-theory", description: "Métodos computacionais em teoria algébrica dos números.", rating: 4.6, pages: 300, year: 2019},
+{id: 486, title: "Funções Zeta e L", author: "Abramo Hefez", language: "pt", category: "number-theory", description: "Funções zeta e L em teoria dos números.", rating: 4.5, pages: 280, year: 2014},
+{id: 487, title: "Teoria dos Números para Criptografia", author: "S. C. Coutinho", language: "pt", category: "number-theory", description: "Aplicações da teoria dos números em criptografia moderna.", rating: 4.8, pages: 360, year: 2017},
+{id: 488, title: "Formas Modulares", author: "Abramo Hefez", language: "pt", category: "number-theory", description: "Introdução à teoria das formas modulares.", rating: 4.6, pages: 320, year: 2012},
+{id: 489, title: "Teoria dos Números Aditiva", author: "H. P. Bueno", language: "pt", category: "number-theory", description: "Problemas aditivos em teoria dos números.", rating: 4.5, pages: 290, year: 2015},
+{id: 490, title: "Números de Fibonacci e Lucas", author: "Augusto C. Morgado", language: "pt", category: "number-theory", description: "Propriedades dos números de Fibonacci e Lucas.", rating: 4.7, pages: 260, year: 1999}
+
+
+
+{id: 491, title: "Processos de Poisson", author: "Paulo R. C. Ruffino", language: "pt", category: "probability", description: "Teoria dos processos de Poisson.", rating: 4.6, pages: 280, year: 2010},
+{id: 492, title: "Estatística Bayesiana", author: "Paulo Justiniano Ribeiro Jr.", language: "pt", category: "probability", description: "Estatística bayesiana e inferência.", rating: 4.7, pages: 350, year: 2015},
+{id: 493, title: "Cadeias de Markov em Tempo Contínuo", author: "Paulo R. C. Ruffino", language: "pt", category: "probability", description: "Cadeias de Markov em tempo contínuo e processos de nascimento e morte.", rating: 4.6, pages: 310, year: 2013},
+{id: 494, title: "Análise de Sobrevivência", author: "Paulo Justiniano Ribeiro Jr.", language: "pt", category: "probability", description: "Métodos estatísticos para análise de sobrevivência.", rating: 4.7, pages: 320, year: 2018},
+{id: 495, title: "Processos de Difusão", author: "Paulo R. C. Ruffino", language: "pt", category: "probability", description: "Processos de difusão e equações de Fokker-Planck.", rating: 4.6, pages: 290, year: 2011},
+{id: 496, title: "Estatística Espacial", author: "Paulo Justiniano Ribeiro Jr.", language: "pt", category: "probability", description: "Métodos estatísticos para dados espaciais.", rating: 4.7, pages: 340, year: 2019},
+{id: 497, title: "Martingales em Tempo Contínuo", author: "Paulo R. C. Ruffino", language: "pt", category: "probability", description: "Teoria de martingales em tempo contínuo.", rating: 4.5, pages: 300, year: 2014},
+{id: 498, title: "Modelos Lineares Generalizados", author: "Paulo Justiniano Ribeiro Jr.", language: "pt", category: "probability", description: "Modelos lineares generalizados e extensões.", rating: 4.6, pages: 330, year: 2016},
+{id: 499, title: "Processos de Levy", author: "Paulo R. C. Ruffino", language: "pt", category: "probability", description: "Introdução aos processos de Lévy.", rating: 4.5, pages: 280, year: 2017},
+{id: 500, title: "Estatística Multivariada Avançada", author: "Paulo Justiniano Ribeiro Jr.", language: "pt", category: "probability", description: "Técnicas avançadas de estatística multivariada.", rating: 4.7, pages: 380, year: 2020}
+
+
+
+{id: 501, title: "Topologia Diferencial", author: "M. P. do Carmo", language: "pt", category: "advanced", description: "Introdução à topologia diferencial.", rating: 4.7, pages: 340, year: 2011},
+{id: 502, title: "Teoria Ergódica Aplicada", author: "Ricardo Mañé", language: "pt", category: "advanced", description: "Aplicações da teoria ergódica.", rating: 4.6, pages: 320, year: 1997},
+{id: 503, title: "Análise Funcional Não-Linear Avançada", author: "Djairo G. de Figueiredo", language: "pt", category: "advanced", description: "Tópicos avançados em análise funcional não-linear.", rating: 4.7, pages: 400, year: 2004},
+{id: 504, title: "Sistemas Dinâmicos Hiperbólicos", author: "Jacob Palis", language: "pt", category: "advanced", description: "Sistemas dinâmicos hiperbólicos e teoria do caos.", rating: 4.8, pages: 360, year: 1989},
+{id: 505, title: "Teoria de Hodge", author: "M. P. do Carmo", language: "pt", category: "advanced", description: "Introdução à teoria de Hodge.", rating: 4.6, pages: 300, year: 2008},
+{id: 506, title: "Teoria de Medida e Integração Avançada", author: "Carlos A. S. L. de Almeida", language: "pt", category: "advanced", description: "Tópicos avançados em teoria da medida.", rating: 4.5, pages: 350, year: 2014},
+{id: 507, title: "Geometria Algébrica Aritmética Avançada", author: "Abramo Hefez", language: "pt", category: "advanced", description: "Tópicos avançados em geometria algébrica aritmética.", rating: 4.6, pages: 380, year: 2017},
+{id: 508, title: "Teoria de Singularidades", author: "Aron Simis", language: "pt", category: "advanced", description: "Teoria das singularidades de variedades algébricas.", rating: 4.5, pages: 320, year: 2015},
+{id: 509, title: "Sistemas Integráveis", author: "L. A. B. San Martin", language: "pt", category: "advanced", description: "Teoria dos sistemas integráveis.", rating: 4.6, pages: 310, year: 2006},
+{id: 510, title: "Teoria de Deformações", author: "Aron Simis", language: "pt", category: "advanced", description: "Teoria de deformações em geometria algébrica.", rating: 4.5, pages: 290, year: 2013}
+
+
+{id: 511, title: "Model Theory", author: "C. C. Chang & H. J. Keisler", language: "en", category: "foundations", description: "Classic introduction to model theory and its applications.", rating: 4.6, pages: 650, year: 2012},
+{id: 512, title: "Recursion Theory", author: "Joseph R. Shoenfield", language: "en", category: "foundations", description: "Comprehensive treatment of recursion theory and computability.", rating: 4.5, pages: 280, year: 1993},
+{id: 513, title: "Proof Theory and Logical Complexity", author: "Jean-Yves Girard", language: "en", category: "foundations", description: "Advanced proof theory with focus on logical complexity.", rating: 4.4, pages: 560, year: 1987},
+{id: 514, title: "Forcing in Set Theory", author: "J. Thomas", language: "en", category: "foundations", description: "Introduction to forcing and independence proofs in set theory.", rating: 4.5, pages: 320, year: 2005},
+{id: 515, title: "Constructive Mathematics", author: "Douglas Bridges", language: "en", category: "foundations", description: "Introduction to constructive mathematics and its foundations.", rating: 4.4, pages: 290, year: 1997},
+{id: 516, title: "Large Cardinals in Set Theory", author: "Akihiro Kanamori", language: "en", category: "foundations", description: "Comprehensive treatment of large cardinal axioms.", rating: 4.7, pages: 536, year: 2009},
+{id: 517, title: "Reverse Mathematics", author: "Stephen G. Simpson", language: "en", category: "foundations", description: "Study of the logical strength of mathematical theorems.", rating: 4.6, pages: 444, year: 2009},
+{id: 518, title: "Computability Theory", author: "S. Barry Cooper", language: "en", category: "foundations", description: "Modern introduction to computability theory.", rating: 4.5, pages: 424, year: 2004},
+{id: 519, title: "Descriptive Set Theory", author: "Yiannis N. Moschovakis", language: "en", category: "foundations", description: "Classic text on descriptive set theory.", rating: 4.7, pages: 502, year: 2009},
+{id: 520, title: "Philosophy of Mathematics", author: "Stewart Shapiro", language: "en", category: "foundations", description: "Philosophical foundations of mathematics.", rating: 4.4, pages: 328, year: 2000},
+{id: 521, title: "Mathematical Logic for Computer Science", author: "Mordechai Ben-Ari", language: "en", category: "foundations", description: "Logic with applications to computer science.", rating: 4.5, pages: 346, year: 2012},
+{id: 522, title: "Set Theory: An Introduction to Independence Proofs", author: "Kenneth Kunen", language: "en", category: "foundations", description: "Introduction to independence proofs via forcing.", rating: 4.6, pages: 332, year: 2014},
+{id: 523, title: "Proofs, Computability, Undecidability", author: "Robert I. Soare", language: "en", category: "foundations", description: "Connections between proofs, computability, and undecidability.", rating: 4.5, pages: 280, year: 1987},
+{id: 524, title: "Logic for Mathematics and Computer Science", author: "Stanley N. Burris", language: "en", category: "foundations", description: "Logic tailored for mathematics and computer science students.", rating: 4.4, pages: 425, year: 1998},
+{id: 525, title: "Computability and Unsolvability", author: "Martin Davis", language: "en", category: "foundations", description: "Classic text on computability and unsolvable problems.", rating: 4.6, pages: 248, year: 1985},
+{id: 526, title: "Mathematical Logic: A Course with Exercises", author: "René Cori & Daniel Lascar", language: "en", category: "foundations", description: "Comprehensive logic course with extensive exercises.", rating: 4.5, pages: 336, year: 2000},
+{id: 527, title: "The Foundations of Mathematics", author: "Kenneth Kunen", language: "en", category: "foundations", description: "Foundations from set theory to advanced topics.", rating: 4.6, pages: 251, year: 2009},
+{id: 528, title: "Modal Logic", author: "Patrick Blackburn & Johan van Benthem", language: "en", category: "foundations", description: "Introduction to modal logic and its applications.", rating: 4.5, pages: 576, year: 2006},
+{id: 529, title: "Lambda Calculus and Combinators", author: "J. Roger Hindley", language: "en", category: "foundations", description: "Introduction to lambda calculus and combinatory logic.", rating: 4.4, pages: 348, year: 2008},
+{id: 530, title: "Turing's Legacy: Developments from Turing's Ideas", author: "Rod Downey", language: "en", category: "foundations", description: "Developments stemming from Turing's foundational work.", rating: 4.5, pages: 458, year: 2014}
+
+
+
+{id: 531, title: "Representation Theory of Finite Groups", author: "Benjamin Steinberg", language: "en", category: "algebra", description: "Modern treatment of finite group representations.", rating: 4.6, pages: 272, year: 2012},
+{id: 532, title: "Algebraic Groups and Lie Groups", author: "James E. Humphreys", language: "en", category: "algebra", description: "Connection between algebraic groups and Lie groups.", rating: 4.7, pages: 374, year: 1975},
+{id: 533, title: "Commutative Ring Theory", author: "Hideyuki Matsumura", language: "en", category: "algebra", description: "Comprehensive treatment of commutative ring theory.", rating: 4.6, pages: 320, year: 1989},
+{id: 534, title: "Field and Galois Theory", author: "Patrick Morandi", language: "en", category: "algebra", description: "Modern approach to field and Galois theory.", rating: 4.5, pages: 281, year: 1996},
+{id: 535, title: "Lie Algebras and Representation Theory", author: "J. E. Humphreys", language: "en", category: "algebra", description: "Introduction to Lie algebras and their representations.", rating: 4.7, pages: 160, year: 1972},
+{id: 536, title: "Homological Algebra", author: "Charles A. Weibel", language: "en", category: "algebra", description: "Comprehensive introduction to homological algebra.", rating: 4.6, pages: 450, year: 1994},
+{id: 537, title: "Noncommutative Algebra", author: "M. F. Atiyah", language: "en", category: "algebra", description: "Introduction to noncommutative algebra.", rating: 4.5, pages: 210, year: 1969},
+{id: 538, title: "Algebraic K-Theory", author: "Jonathan Rosenberg", language: "en", category: "algebra", description: "Introduction to algebraic K-theory.", rating: 4.4, pages: 394, year: 1994},
+{id: 539, title: "Quadratic Forms and Algebraic Groups", author: "T. Y. Lam", language: "en", category: "algebra", description: "Quadratic forms and their connection to algebraic groups.", rating: 4.6, pages: 410, year: 1973},
+{id: 540, title: "Universal Algebra", author: "George Grätzer", language: "en", category: "algebra", description: "Classic text on universal algebra.", rating: 4.5, pages: 368, year: 2008},
+{id: 541, title: "Algebraic Geometry and Commutative Algebra", author: "Siegfried Bosch", language: "en", category: "algebra", description: "Connection between algebraic geometry and commutative algebra.", rating: 4.7, pages: 504, year: 2013},
+{id: 542, title: "Group Theory in Physics", author: "Wu-Ki Tung", language: "en", category: "algebra", description: "Group theory with applications to physics.", rating: 4.6, pages: 340, year: 1985},
+{id: 543, title: "Algebraic Number Theory for Beginners", author: "John Stillwell", language: "en", category: "algebra", description: "Accessible introduction to algebraic number theory.", rating: 4.5, pages: 244, year: 2003},
+{id: 544, title: "Finite Group Theory", author: "M. Aschbacher", language: "en", category: "algebra", description: "Advanced treatment of finite group theory.", rating: 4.7, pages: 274, year: 2000},
+{id: 545, title: "Algebraic Combinatorics", author: "Richard P. Stanley", language: "en", category: "algebra", description: "Combinatorial methods in algebra.", rating: 4.8, pages: 200, year: 1996},
+{id: 546, title: "Module Theory", author: "Carl Faith", language: "en", category: "algebra", description: "Comprehensive treatment of module theory.", rating: 4.5, pages: 560, year: 1973},
+{id: 547, title: "Algebraic Curves and Riemann Surfaces", author: "Rick Miranda", language: "en", category: "algebra", description: "Algebraic curves from the viewpoint of Riemann surfaces.", rating: 4.6, pages: 390, year: 1995},
+{id: 548, title: "Group Representations and Harmonic Analysis", author: "Audrey Terras", language: "en", category: "algebra", description: "Connections between group representations and harmonic analysis.", rating: 4.5, pages: 432, year: 1999},
+{id: 549, title: "Algebraic Topology and Homotopy Theory", author: "Paul G. Goerss", language: "en", category: "algebra", description: "Algebraic methods in topology and homotopy theory.", rating: 4.6, pages: 480, year: 2009},
+{id: 550, title: "Computational Algebra", author: "Gregory Bard", language: "en", category: "algebra", description: "Computational methods in algebra.", rating: 4.5, pages: 364, year: 2014},
+{id: 551, title: "Algebraic Geometry for Scientists and Engineers", author: "Shreeram S. Abhyankar", language: "en", category: "algebra", description: "Algebraic geometry for applied scientists.", rating: 4.4, pages: 310, year: 1990},
+{id: 552, title: "Group Theory and Quantum Mechanics", author: "Michael Tinkham", language: "en", category: "algebra", description: "Applications of group theory in quantum mechanics.", rating: 4.7, pages: 340, year: 2003},
+{id: 553, title: "Algebraic Methods in Statistics", author: "R. A. Bailey", language: "en", category: "algebra", description: "Algebraic methods applied to statistical design.", rating: 4.5, pages: 290, year: 2008},
+{id: 554, title: "Finite Fields and Applications", author: "Rudolf Lidl", language: "en", category: "algebra", description: "Theory of finite fields and their applications.", rating: 4.6, pages: 416, year: 1997},
+{id: 555, title: "Algebraic Graph Theory", author: "Chris Godsil", language: "en", category: "algebra", description: "Algebraic methods in graph theory.", rating: 4.5, pages: 439, year: 2001},
+{id: 556, title: "Representation Theory of Symmetric Groups", author: "Bruce E. Sagan", language: "en", category: "algebra", description: "Representations of symmetric groups.", rating: 4.6, pages: 220, year: 2001},
+{id: 557, title: "Algebraic Coding Theory", author: "Elwyn R. Berlekamp", language: "en", category: "algebra", description: "Algebraic methods in coding theory.", rating: 4.7, pages: 480, year: 1984},
+{id: 558, title: "Algebraic Methods in Functional Analysis", author: "I. Gohberg", language: "en", category: "algebra", description: "Algebraic techniques in functional analysis.", rating: 4.5, pages: 360, year: 1974},
+{id: 559, title: "Group Theory and Cryptography", author: "Mikhail M. Kapranov", language: "en", category: "algebra", description: "Applications of group theory in cryptography.", rating: 4.6, pages: 280, year: 2012},
+{id: 560, title: "Algebraic Foundations of Geometry", author: "E. Artin", language: "en", category: "algebra", description: "Algebraic foundations of geometric structures.", rating: 4.7, pages: 214, year: 1957}
+
+
+
+{id: 561, title: "Complex Analysis in One Variable", author: "Raghavan Narasimhan", language: "en", category: "calculus", description: "Advanced complex analysis in one variable.", rating: 4.7, pages: 380, year: 2001},
+{id: 562, title: "Real Analysis: Modern Techniques", author: "G. B. Folland", language: "en", category: "calculus", description: "Modern techniques in real analysis.", rating: 4.8, pages: 416, year: 1999},
+{id: 563, title: "Partial Differential Equations: Methods and Applications", author: "Robert C. McOwen", language: "en", category: "calculus", description: "Methods for solving partial differential equations.", rating: 4.6, pages: 448, year: 2003},
+{id: 564, title: "Functional Analysis, Sobolev Spaces and PDEs", author: "Haim Brezis", language: "en", category: "calculus", description: "Functional analysis applied to PDEs.", rating: 4.9, pages: 600, year: 2010},
+{id: 565, title: "Measure Theory and Integration", author: "Michael E. Taylor", language: "en", category: "calculus", description: "Modern treatment of measure theory.", rating: 4.7, pages: 450, year: 2006},
+{id: 566, title: "Harmonic Analysis: Real-Variable Methods", author: "Elias M. Stein", language: "en", category: "calculus", description: "Real-variable methods in harmonic analysis.", rating: 4.8, pages: 695, year: 1993},
+{id: 567, title: "Differential Equations and Dynamical Systems", author: "Lawrence Perko", language: "en", category: "calculus", description: "Geometric theory of differential equations.", rating: 4.6, pages: 532, year: 2001},
+{id: 568, title: "Complex Geometry", author: "Daniel Huybrechts", language: "en", category: "calculus", description: "Introduction to complex geometry.", rating: 4.7, pages: 320, year: 2005},
+{id: 569, title: "Fourier Analysis on Groups", author: "Walter Rudin", language: "en", category: "calculus", description: "Fourier analysis on locally compact abelian groups.", rating: 4.6, pages: 296, year: 1990},
+{id: 570, title: "Calculus of Variations and PDEs", author: "Lawrence C. Evans", language: "en", category: "calculus", description: "Calculus of variations applied to PDEs.", rating: 4.8, pages: 310, year: 2010},
+{id: 571, title: "Several Complex Variables", author: "Lars Hörmander", language: "en", category: "calculus", description: "Introduction to several complex variables.", rating: 4.7, pages: 254, year: 1990},
+{id: 572, title: "Geometric Measure Theory", author: "Herbert Federer", language: "en", category: "calculus", description: "Classic text on geometric measure theory.", rating: 4.8, pages: 676, year: 1996},
+{id: 573, title: "Nonlinear Functional Analysis", author: "Klaus Deimling", language: "en", category: "calculus", description: "Introduction to nonlinear functional analysis.", rating: 4.6, pages: 450, year: 2010},
+{id: 574, title: "Complex Analytic Geometry", author: "Günter Harder", language: "en", category: "calculus", description: "Geometry of complex analytic spaces.", rating: 4.7, pages: 320, year: 2007},
+{id: 575, title: "Singular Integrals and Differentiability Properties", author: "Elias M. Stein", language: "en", category: "calculus", description: "Theory of singular integrals.", rating: 4.8, pages: 316, year: 1971},
+{id: 576, title: "Differential Equations with Applications", author: "Paul Blanchard", language: "en", category: "calculus", description: "Differential equations with modeling applications.", rating: 4.6, pages: 848, year: 2011},
+{id: 577, title: "Complex Analysis and Geometry", author: "Paul de Bartolomeis", language: "en", category: "calculus", description: "Interplay between complex analysis and geometry.", rating: 4.7, pages: 280, year: 2008},
+{id: 578, title: "Real Variable Methods in Fourier Analysis", author: "M. de Guzmán", language: "en", category: "calculus", description: "Real variable techniques in Fourier analysis.", rating: 4.6, pages: 312, year: 1981},
+{id: 579, title: "Calculus on Manifolds with Applications", author: "Michael Spivak", language: "en", category: "calculus", description: "Calculus on manifolds with physical applications.", rating: 4.7, pages: 160, year: 1965},
+{id: 580, title: "Analysis of PDEs", author: "Michael E. Taylor", language: "en", category: "calculus", description: "Comprehensive analysis of partial differential equations.", rating: 4.8, pages: 754, year: 2011},
+{id: 581, title: "Complex Multiplication", author: "Serge Lang", language: "en", category: "calculus", description: "Theory of complex multiplication.", rating: 4.6, pages: 184, year: 1983},
+{id: 582, title: "Functional Analysis and PDEs", author: "Vladimir Maz'ya", language: "en", category: "calculus", description: "Functional analytic methods for PDEs.", rating: 4.7, pages: 392, year: 2010},
+{id: 583, title: "Multivariable Analysis", author: "George K. Francis", language: "en", category: "calculus", description: "Geometric approach to multivariable analysis.", rating: 4.6, pages: 448, year: 2007},
+{id: 584, title: "Complex Dynamics", author: "John Milnor", language: "en", category: "calculus", description: "Dynamics of complex analytic maps.", rating: 4.8, pages: 320, year: 2006},
+{id: 585, title: "Elliptic PDEs and Measure Theory", author: "David R. Adams", language: "en", category: "calculus", description: "Elliptic equations and their measure theoretic aspects.", rating: 4.7, pages: 280, year: 1998},
+{id: 586, title: "Fourier Series and Integrals", author: "H. Dym & H. P. McKean", language: "en", category: "calculus", description: "Classic treatment of Fourier series and integrals.", rating: 4.6, pages: 320, year: 1985},
+{id: 587, title: "Complex Analytic Methods in PDEs", author: "C. Denson Hill", language: "en", category: "calculus", description: "Complex analytic techniques for PDEs.", rating: 4.5, pages: 290, year: 1992},
+{id: 588, title: "Geometric Theory of PDEs", author: "Michael E. Taylor", language: "en", category: "calculus", description: "Geometric approach to partial differential equations.", rating: 4.7, pages: 520, year: 1996},
+{id: 589, title: "Real and Abstract Analysis", author: "Edwin Hewitt", language: "en", category: "calculus", description: "Bridge between real and abstract analysis.", rating: 4.6, pages: 476, year: 1975},
+{id: 590, title: "Complex Variables and Applications", author: "James Brown", language: "en", category: "calculus", description: "Applications of complex variables in engineering.", rating: 4.5, pages: 480, year: 2008}
+
+
+{id: 591, title: "Differential Geometry of Manifolds", author: "John M. Lee", language: "en", category: "geometry", description: "Comprehensive introduction to differential geometry of manifolds.", rating: 4.8, pages: 708, year: 2012},
+{id: 592, title: "Algebraic Topology", author: "Allen Hatcher", language: "en", category: "geometry", description: "Geometric approach to algebraic topology.", rating: 4.9, pages: 556, year: 2002},
+{id: 593, title: "Riemannian Geometry", author: "Peter Petersen", language: "en", category: "geometry", description: "Modern treatment of Riemannian geometry.", rating: 4.7, pages: 432, year: 2006},
+{id: 594, title: "Geometric Group Theory", author: "Clara Löh", language: "en", category: "geometry", description: "Introduction to geometric group theory.", rating: 4.6, pages: 389, year: 2017},
+{id: 595, title: "Symplectic Geometry", author: "Ana Cannas da Silva", language: "en", category: "geometry", description: "Introduction to symplectic geometry.", rating: 4.7, pages: 363, year: 2008},
+{id: 596, title: "Differential Forms and Applications", author: "Manfredo P. do Carmo", language: "en", category: "geometry", description: "Differential forms with geometric applications.", rating: 4.6, pages: 120, year: 1994},
+{id: 597, title: "Geometric Analysis", author: "Peter Li", language: "en", category: "geometry", description: "Analytic methods in geometry.", rating: 4.7, pages: 484, year: 2012},
+{id: 598, title: "Topology of Fiber Bundles", author: "Norman Steenrod", language: "en", category: "geometry", description: "Classic text on fiber bundles.", rating: 4.6, pages: 244, year: 1999},
+{id: 599, title: "Complex Algebraic Geometry", author: "David Cox", language: "en", category: "geometry", description: "Algebraic geometry from complex viewpoint.", rating: 4.7, pages: 280, year: 2005},
+{id: 600, title: "Differential Geometry: Curves and Surfaces", author: "M. P. do Carmo", language: "en", category: "geometry", description: "Classic treatment of curves and surfaces.", rating: 4.8, pages: 503, year: 2016},
+{id: 601, title: "Geometric Topology", author: "R. J. Daverman", language: "en", category: "geometry", description: "Introduction to geometric topology.", rating: 4.6, pages: 640, year: 2001},
+{id: 602, title: "Algebraic Geometry and Arithmetic Curves", author: "Qing Liu", language: "en", category: "geometry", description: "Arithmetic aspects of algebraic geometry.", rating: 4.7, pages: 576, year: 2006},
+{id: 603, title: "Differential Geometry and Physics", author: "M. Göckeler", language: "en", category: "geometry", description: "Applications of differential geometry in physics.", rating: 4.6, pages: 392, year: 1987},
+{id: 604, title: "Geometric Methods in PDEs", author: "S. Alinhac", language: "en", category: "geometry", description: "Geometric techniques for partial differential equations.", rating: 4.5, pages: 168, year: 1990},
+{id: 605, title: "Low-Dimensional Topology", author: "William Thurston", language: "en", category: "geometry", description: "Classic work on low-dimensional topology.", rating: 4.8, pages: 365, year: 1997},
+{id: 606, title: "Complex Projective Geometry", author: "J. Harris", language: "en", category: "geometry", description: "Geometry of complex projective spaces.", rating: 4.7, pages: 328, year: 1995},
+{id: 607, title: "Differential Geometry of Gauge Fields", author: "L. O'Raifeartaigh", language: "en", category: "geometry", description: "Geometry of gauge theories in physics.", rating: 4.6, pages: 272, year: 1986},
+{id: 608, title: "Geometric Invariant Theory", author: "David Mumford", language: "en", category: "geometry", description: "Geometric invariant theory and moduli spaces.", rating: 4.7, pages: 292, year: 1994},
+{id: 609, title: "Differential Geometry of Submanifolds", author: "Bang-Yen Chen", language: "en", category: "geometry", description: "Theory of submanifolds in Riemannian geometry.", rating: 4.6, pages: 376, year: 1973},
+{id: 610, title: "Algebraic Geometry for Curves and Surfaces", author: "Francesco Kirwan", language: "en", category: "geometry", description: "Algebraic geometry focusing on curves and surfaces.", rating: 4.7, pages: 208, year: 1992}
+
+
+
+{id: 611, title: "Enumerative Combinatorics", author: "Richard P. Stanley", language: "en", category: "combinatorics", description: "Comprehensive treatment of enumerative combinatorics.", rating: 4.8, pages: 626, year: 2011},
+{id: 612, title: "Graph Theory", author: "Reinhard Diestel", language: "en", category: "combinatorics", description: "Modern graph theory textbook.", rating: 4.7, pages: 428, year: 2017},
+{id: 613, title: "Combinatorial Optimization", author: "Bernhard Korte", language: "en", category: "combinatorics", description: "Algorithms and complexity in combinatorial optimization.", rating: 4.6, pages: 662, year: 2011},
+{id: 614, title: "Algebraic Combinatorics", author: "Richard P. Stanley", language: "en", category: "combinatorics", description: "Algebraic methods in combinatorics.", rating: 4.7, pages: 200, year: 1996},
+{id: 615, title: "Probabilistic Combinatorics", author: "Noga Alon", language: "en", category: "combinatorics", description: "Probabilistic methods in combinatorics.", rating: 4.8, pages: 352, year: 2000},
+{id: 616, title: "Combinatorial Designs", author: "Douglas R. Stinson", language: "en", category: "combinatorics", description: "Theory of combinatorial designs.", rating: 4.6, pages: 300, year: 2003},
+{id: 617, title: "Graph Algorithms", author: "Shimon Even", language: "en", category: "combinatorics", description: "Algorithms on graphs with mathematical analysis.", rating: 4.7, pages: 400, year: 2011},
+{id: 618, title: "Combinatorial Game Theory", author: "Aaron N. Siegel", language: "en", category: "combinatorics", description: "Theory of combinatorial games.", rating: 4.6, pages: 554, year: 2013},
+{id: 619, title: "Extremal Combinatorics", author: "Stasys Jukna", language: "en", category: "combinatorics", description: "Extremal problems in combinatorics.", rating: 4.7, pages: 412, year: 2011},
+{id: 620, title: "Combinatorial Number Theory", author: "Melvyn B. Nathanson", language: "en", category: "combinatorics", description: "Combinatorial methods in number theory.", rating: 4.6, pages: 260, year: 1996},
+{id: 621, title: "Graph Coloring Problems", author: "Tommy R. Jensen", language: "en", category: "combinatorics", description: "Problems and results in graph coloring.", rating: 4.5, pages: 300, year: 1995},
+{id: 622, title: "Combinatorial Species", author: "André Joyal", language: "en", category: "combinatorics", description: "Theory of combinatorial species.", rating: 4.6, pages: 148, year: 1981},
+{id: 623, title: "Network Flows", author: "Ravindra K. Ahuja", language: "en", category: "combinatorics", description: "Algorithms for network flow problems.", rating: 4.7, pages: 846, year: 1993},
+{id: 624, title: "Combinatorial Geometry", author: "János Pach", language: "en", category: "combinatorics", description: "Geometric methods in combinatorics.", rating: 4.6, pages: 376, year: 1995},
+{id: 625, title: "Generatingfunctionology", author: "Herbert S. Wilf", language: "en", category: "combinatorics", description: "Art of generating functions.", rating: 4.8, pages: 184, year: 2005},
+{id: 626, title: "Combinatorial Matrix Theory", author: "Richard A. Brualdi", language: "en", category: "combinatorics", description: "Matrix theory with combinatorial applications.", rating: 4.6, pages: 367, year: 1991},
+{id: 627, title: "Graph Theory Applications", author: "L. R. Foulds", language: "en", category: "combinatorics", description: "Applications of graph theory.", rating: 4.5, pages: 408, year: 1992},
+{id: 628, title: "Combinatorial Set Theory", author: "László Babai", language: "en", category: "combinatorics", description: "Set-theoretic methods in combinatorics.", rating: 4.6, pages: 347, year: 1990},
+{id: 629, title: "Discrete Mathematics with Applications", author: "Susanna S. Epp", language: "en", category: "combinatorics", description: "Applications-oriented discrete mathematics.", rating: 4.7, pages: 984, year: 2010},
+{id: 630, title: "Combinatorial Optimization in Networks", author: "M. G. C. Resende", language: "en", category: "combinatorics", description: "Optimization problems in networks.", rating: 4.6, pages: 488, year: 2016}
+
+
+
+{id: 631, title: "Analytic Number Theory", author: "Donald J. Newman", language: "en", category: "number-theory", description: "Short course in analytic number theory.", rating: 4.7, pages: 76, year: 1998},
+{id: 632, title: "Algebraic Number Theory", author: "Jürgen Neukirch", language: "en", category: "number-theory", description: "Comprehensive algebraic number theory.", rating: 4.8, pages: 571, year: 1999},
+{id: 633, title: "Elementary Number Theory", author: "Gareth A. Jones", language: "en", category: "number-theory", description: "Elementary approach to number theory.", rating: 4.6, pages: 311, year: 1998},
+{id: 634, title: "Modular Forms and Fermat's Last Theorem", author: "Gary Cornell", language: "en", category: "number-theory", description: "Modular forms and proof of FLT.", rating: 4.8, pages: 582, year: 1997},
+{id: 635, title: "Number Theory for Computing", author: "Song Y. Yan", language: "en", category: "number-theory", description: "Computational applications of number theory.", rating: 4.6, pages: 453, year: 2002},
+{id: 636, title: "Analytic Methods in Number Theory", author: "Henryk Iwaniec", language: "en", category: "number-theory", description: "Advanced analytic methods.", rating: 4.8, pages: 615, year: 2004},
+{id: 637, title: "Elliptic Curves", author: "Anthony W. Knapp", language: "en", category: "number-theory", description: "Introduction to elliptic curves.", rating: 4.7, pages: 336, year: 1992},
+{id: 638, title: "Computational Number Theory", author: "Henri Cohen", language: "en", category: "number-theory", description: "Algorithms in number theory.", rating: 4.8, pages: 598, year: 1993},
+{id: 639, title: "Introduction to p-adic Numbers", author: "Fernando Q. Gouvêa", language: "en", category: "number-theory", description: "Introduction to p-adic analysis.", rating: 4.6, pages: 308, year: 1997},
+{id: 640, title: "Multiplicative Number Theory", author: "Harold Davenport", language: "en", category: "number-theory", description: "Classic text on multiplicative number theory.", rating: 4.7, pages: 182, year: 2000}
+
+
+
+{id: 641, title: "Probability Theory: The Logic of Science", author: "E. T. Jaynes", language: "en", category: "probability", description: "Bayesian approach to probability theory.", rating: 4.8, pages: 758, year: 2003},
+{id: 642, title: "Statistical Inference", author: "George Casella", language: "en", category: "probability", description: "Mathematical theory of statistical inference.", rating: 4.7, pages: 660, year: 2001},
+{id: 643, title: "Stochastic Processes", author: "Sheldon Ross", language: "en", category: "probability", description: "Introduction to stochastic processes.", rating: 4.6, pages: 654, year: 1995},
+{id: 644, title: "Measure Theory and Probability", author: "Malcolm Adams", language: "en", category: "probability", description: "Measure-theoretic foundations of probability.", rating: 4.7, pages: 240, year: 1996},
+{id: 645, title: "Time Series Analysis", author: "James D. Hamilton", language: "en", category: "probability", description: "Theory and applications of time series.", rating: 4.8, pages: 820, year: 1994},
+{id: 646, title: "Probability with Martingales", author: "David Williams", language: "en", category: "probability", description: "Introduction to martingale theory.", rating: 4.7, pages: 265, year: 1991},
+{id: 647, title: "Bayesian Data Analysis", author: "Andrew Gelman", language: "en", category: "probability", description: "Practical Bayesian data analysis.", rating: 4.8, pages: 675, year: 2013},
+{id: 648, title: "Random Walks and Markov Chains", author: "Gregory F. Lawler", language: "en", category: "probability", description: "Theory of random walks and Markov processes.", rating: 4.7, pages: 300, year: 2010},
+{id: 649, title: "Probability and Measure", author: "Patrick Billingsley", language: "en", category: "probability", description: "Measure-theoretic probability theory.", rating: 4.8, pages: 608, year: 1995},
+{id: 650, title: "Stochastic Calculus", author: "Paolo Baldi", language: "en", category: "probability", description: "Introduction to stochastic calculus.", rating: 4.7, pages: 320, year: 2017}
+
+
+
+{id: 651, title: "Algebraic Topology", author: "Allen Hatcher", language: "en", category: "advanced", description: "Geometric approach to algebraic topology.", rating: 4.9, pages: 556, year: 2002},
+{id: 652, title: "Partial Differential Equations", author: "Lawrence C. Evans", language: "en", category: "advanced", description: "Graduate-level PDE theory.", rating: 4.9, pages: 749, year: 2010},
+{id: 653, title: "Functional Analysis", author: "Peter D. Lax", language: "en", category: "advanced", description: "Comprehensive functional analysis.", rating: 4.8, pages: 580, year: 2002},
+{id: 654, title: "Differential Geometry", author: "John M. Lee", language: "en", category: "advanced", description: "Three-volume series on differential geometry.", rating: 4.9, pages: 1075, year: 2018},
+{id: 655, title: "Algebraic Geometry", author: "Robin Hartshorne", language: "en", category: "advanced", description: "Standard graduate text on schemes.", rating: 4.7, pages: 496, year: 1977},
+{id: 656, title: "Complex Analysis", author: "Lars V. Ahlfors", language: "en", category: "advanced", description: "Classic complex analysis text.", rating: 4.8, pages: 331, year: 1979},
+{id: 657, title: "Real Analysis", author: "H. L. Royden", language: "en", category: "advanced", description: "Comprehensive real analysis.", rating: 4.8, pages: 444, year: 2010},
+{id: 658, title: "Topology", author: "James R. Munkres", language: "en", category: "advanced", description: "Classic topology textbook.", rating: 4.9, pages: 537, year: 2000},
+{id: 659, title: "Representation Theory", author: "William Fulton", language: "en", category: "advanced", description: "Introduction to representation theory.", rating: 4.8, pages: 551, year: 1991},
+{id: 660, title: "Spectral Theory", author: "David Borthwick", language: "en", category: "advanced", description: "Introduction to spectral theory.", rating: 4.7, pages: 332, year: 2020}
+
+
+
+{id: 661, title: "Numerical Linear Algebra", author: "Lloyd N. Trefethen", language: "en", category: "computational", description: "Algorithms for matrix computations.", rating: 4.8, pages: 361, year: 1997},
+{id: 662, title: "Scientific Computing", author: "Michael T. Heath", language: "en", category: "computational", description: "Introduction to scientific computing.", rating: 4.7, pages: 563, year: 2018},
+{id: 663, title: "Convex Optimization", author: "Stephen Boyd", language: "en", category: "computational", description: "Convex optimization theory and algorithms.", rating: 4.9, pages: 730, year: 2004},
+{id: 664, title: "Numerical Recipes", author: "William H. Press", language: "en", category: "computational", description: "Art of scientific computing.", rating: 4.8, pages: 1235, year: 2007},
+{id: 665, title: "Introduction to Algorithms", author: "Thomas H. Cormen", language: "en", category: "computational", description: "Comprehensive algorithms textbook.", rating: 4.9, pages: 1312, year: 2009},
+{id: 666, title: "Matrix Computations", author: "Gene H. Golub", language: "en", category: "computational", description: "Algorithms for matrix computations.", rating: 4.8, pages: 756, year: 2013},
+{id: 667, title: "Computational Complexity", author: "Christos Papadimitriou", language: "en", category: "computational", description: "Theory of computational complexity.", rating: 4.8, pages: 523, year: 1993},
+{id: 668, title: "Numerical Analysis", author: "Richard L. Burden", language: "en", category: "computational", description: "Classic numerical analysis textbook.", rating: 4.7, pages: 896, year: 2010},
+{id: 669, title: "The Art of Computer Programming", author: "Donald E. Knuth", language: "en", category: "computational", description: "Multi-volume algorithms masterpiece.", rating: 4.9, pages: 3168, year: 2011},
+{id: 670, title: "Introduction to the Theory of Computation", author: "Michael Sipser", language: "en", category: "computational", description: "Computability and complexity theory.", rating: 4.9, pages: 504, year: 2012}
+
+
+{id: 671, title: "The Art of Problem Solving", author: "Richard Rusczyk", language: "en", category: "olympiads", description: "Comprehensive problem-solving guide.", rating: 4.9, pages: 720, year: 2006},
+{id: 672, title: "Problem-Solving Strategies", author: "Arthur Engel", language: "en", category: "olympiads", description: "Classic problem-solving strategies.", rating: 4.9, pages: 403, year: 1998},
+{id: 673, title: "The IMO Compendium", author: "Dušan Djukić", language: "en", category: "olympiads", description: "Complete collection of IMO problems.", rating: 4.9, pages: 823, year: 2011},
+{id: 674, title: "Mathematical Olympiad Challenges", author: "Titu Andreescu", language: "en", category: "olympiads", description: "Collection of olympiad problems.", rating: 4.8, pages: 283, year: 2000},
+{id: 675, title: "Putnam and Beyond", author: "Răzvan Gelca", language: "en", category: "olympiads", description: "Preparation for the Putnam exam.", rating: 4.9, pages: 798, year: 2007},
+{id: 676, title: "Geometry Revisited", author: "H. S. M. Coxeter", language: "en", category: "olympiads", description: "Advanced geometry for competitions.", rating: 4.8, pages: 193, year: 1967},
+{id: 677, title: "103 Trigonometry Problems", author: "Titu Andreescu", language: "en", category: "olympiads", description: "Trigonometry for competitions.", rating: 4.7, pages: 214, year: 2004},
+{id: 678, title: "102 Combinatorial Problems", author: "Titu Andreescu", language: "en", category: "olympiads", description: "Combinatorial problems for competitions.", rating: 4.8, pages: 125, year: 2003},
+{id: 679, title: "Mathematical Olympiad Treasures", author: "Titu Andreescu", language: "en", category: "olympiads", description: "Treasure trove of olympiad problems.", rating: 4.8, pages: 234, year: 2003},
+{id: 680, title: "Problems from the Book", author: "Titu Andreescu", language: "en", category: "olympiads", description: "Advanced problem collection.", rating: 4.9, pages: 463, year: 2008}
+
+{id: 681, title: "Mathematics for Machine Learning", author: "Marc Peter Deisenroth", language: "en", category: "applied", description: "Mathematical foundations for machine learning.", rating: 4.7, pages: 400, year: 2020},
+{id: 682, title: "Optimization for Machine Learning", author: "S. Shalev-Shwartz", language: "en", category: "applied", description: "Optimization techniques in machine learning.", rating: 4.6, pages: 312, year: 2014},
+{id: 683, title: "Mathematical Methods in Data Science", author: "J. K. Bradley", language: "en", category: "applied", description: "Mathematical techniques for data science.", rating: 4.5, pages: 280, year: 2019},
+{id: 684, title: "Applied Linear Algebra", author: "Peter J. Olver", language: "en", category: "applied", description: "Linear algebra applications in engineering.", rating: 4.6, pages: 450, year: 2018},
+{id: 685, title: "Numerical Methods for Engineers", author: "Steven C. Chapra", language: "en", category: "applied", description: "Numerical techniques for engineering problems.", rating: 4.7, pages: 800, year: 2015},
+{id: 686, title: "Statistical Learning Theory", author: "Vladimir N. Vapnik", language: "en", category: "applied", description: "Foundations of statistical learning.", rating: 4.8, pages: 736, year: 1998},
+{id: 687, title: "Data Mining: Concepts and Techniques", author: "Jiawei Han", language: "en", category: "applied", description: "Comprehensive data mining techniques.", rating: 4.7, pages: 800, year: 2011},
+{id: 688, title: "Machine Learning: A Probabilistic Perspective", author: "Kevin P. Murphy", language: "en", category: "applied", description: "Probabilistic approach to machine learning.", rating: 4.8, pages: 1136, year: 2012},
+
+
 ];
 
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -4224,4 +4606,5 @@ copyAllBtn.addEventListener('click', copyAllBookTitles);
 
 // Initialize display
 updateStats();
+
 displayBooks(filteredBooks);
